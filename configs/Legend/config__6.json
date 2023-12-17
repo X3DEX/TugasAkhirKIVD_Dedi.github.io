@@ -1,0 +1,23 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "18c757bc6e0-layer-5": {
+      "selected": true
+    },
+    "Wildlife_Conflicts_7293": {
+      "selected": true
+    },
+    "18c73806958-layer-4": {
+      "selected": false
+    },
+    "Kawasan_Hutan_860": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

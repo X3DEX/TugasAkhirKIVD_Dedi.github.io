@@ -1,0 +1,36 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "18c757bc6e0-layer-5": {
+      "display": true
+    },
+    "Wildlife_Conflicts_7293": {
+      "display": true
+    },
+    "18c73806958-layer-4": {
+      "display": true
+    },
+    "18c73806958-layer-4_0": {
+      "display": true
+    },
+    "Kawasan_Hutan_860": {
+      "display": true
+    },
+    "Kawasan_Hutan_860_0": {
+      "display": true
+    }
+  }
+}

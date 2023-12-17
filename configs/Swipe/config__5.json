@@ -1,0 +1,21 @@
+{
+  "style": "vertical",
+  "layerState": {
+    "Wildlife_Conflicts_7293": {
+      "selected": false
+    },
+    "18c73806958-layer-4": {
+      "selected": true
+    },
+    "Kawasan_Hutan_860": {
+      "selected": true
+    }
+  },
+  "layer": "18c73806958-layer-4",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "single",
+  "defaultLayers": [],
+  "invertPlacement": false,
+  "isHidePanel": false
+}
